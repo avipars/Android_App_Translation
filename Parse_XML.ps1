@@ -1,4 +1,4 @@
-﻿$dir = "C:\Users\avi\Desktop\ANdroid\unitMeasure_translation_powershell\"
+﻿$dir = ".\directory\"
 $strings = "strings.xml"
 $fullDir = $dir + $strings 
 
