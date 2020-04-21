@@ -1,4 +1,4 @@
-# Android_App_Translation
+# Android App Translation Project
 This hack lets you translate your android app quite easily for 118n. 
 
 ## Tools
