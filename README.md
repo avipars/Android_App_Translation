@@ -38,8 +38,7 @@ If you want to bring on volunteer translators, you could block off access to cer
 
 #### Credits
 
-* I took the original spreadsheet from - https://www.cumulations.com/blogs/98/android-ios-localization-using-google-sheets
-but modified it to my needs. 
+* I took the original spreadsheet from - https://www.cumulations.com/blogs/98/android-ios-localization-using-google-sheets and improved on it
 
 
 <a href="https://www.buymeacoffee.com/aviparshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
