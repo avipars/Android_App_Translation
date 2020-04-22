@@ -34,7 +34,7 @@ If you want to bring on volunteer translators, you could block off access to cer
 
 ### Possible issues
 
-* Special characters within the strings file such as '%1$s' may not resolve succesfully. Before copying the strings.xml file, verify that this is not the case. 
+* Special characters within the strings file such as '%1$s' may not resolve successfully. Before copying the strings.xml file, verify that this is not the case. 
 
 #### Credits
 
