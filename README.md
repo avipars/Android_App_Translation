@@ -36,6 +36,10 @@ If you want to bring on volunteer translators, you could block off access to cer
 
 * Special characters within the strings file such as '%1$s' may not resolve successfully. Before copying the strings.xml file, verify that this is not the case. 
 
+#### Applications
+
+* I'm integrating this with my unitMeasure app. If you'd like to help translate the app, join the telegram group https://t.me/unitmeasure
+
 #### Credits
 
 * I took the original spreadsheet from - https://www.cumulations.com/blogs/98/android-ios-localization-using-google-sheets and improved on it
